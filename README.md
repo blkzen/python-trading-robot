@@ -69,7 +69,3 @@ trading_robot = PyRobot(
     credentials_path='path/to/td_state.json'
 )
 ```
-
-For more detailed examples, go to the `trading_robot.py` file to see an example of how to use the library along with all
-the different objects inside.
-
